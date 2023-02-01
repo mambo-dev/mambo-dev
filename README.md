@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mambo
+- 👋 Hi, I’m Mambo
 - 👀 I’m interested in web and systems development 
 - 🌱 I’m currently learning rust 
 - 💞️ I’m looking to collaborate on full stack web applications or any exciting projects I can learn from.
