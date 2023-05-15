@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and systems development 
 - 🌱 I’m currently learning rust 
 - 💞️ I’m looking to collaborate on full stack web applications or any exciting projects I can learn from.
-- 📫 How to reach me mambo.michael.22@gmail.com
+- 📫 How to reach me mambo.michael.22@gmail.com or
 https://mambo-dev-portfolio.vercel.app/
 
 <!---
