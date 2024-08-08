@@ -5,7 +5,7 @@
 - 📫 How to reach me mambo.michael.22@gmail.com or
 https://mambo-dev-portfolio.vercel.app/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mambo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mambo-dev&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mambo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true) 
 
 <!---
 mambo-dev/mambo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
